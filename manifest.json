@@ -1,0 +1,11 @@
+{
+    "name": "EazyApply",
+    "version": "1.0.0",
+    "description": "Save Important Information",
+    "manifest_version": 3,
+    "author": "Vedant Gokhale",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "EazyApply"
+    }
+}
